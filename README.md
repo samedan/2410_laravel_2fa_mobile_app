@@ -22,3 +22,14 @@
 ## Step 5: Enable Two-Factor Authentication
 
 > User Model
+
+### Email reset
+
+## Getting DNS Mailtrap
+
+> https://mailtrap.io/blog/send-email-in-laravel/#Generating-and-writing-mailables
+
+## Class email
+
+> https://sendlayer.com/blog/how-to-send-email-in-laravel-with-smtp/
+> Setup app/config/mail.php
